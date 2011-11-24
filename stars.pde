@@ -1,6 +1,3 @@
-// This will be a rabbit in space .gif, whoops, this is the real change
-// A new comment
-
 Star stars[];
 int STARS = 100;
 void setup() {
